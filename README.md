@@ -20,3 +20,7 @@ exeを起動
 https://280blocker.net/
 
 LICENSE → 【licence.txt】 in this repository.
+
+実行コード並びにexeでWindowsセキュリティが作動した場合
+→ https://zenn.dev/kenta_goto/articles/a1cacbd326f864
+を確認お願いいたします。
