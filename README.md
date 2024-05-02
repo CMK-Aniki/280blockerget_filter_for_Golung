@@ -21,6 +21,6 @@ https://280blocker.net/
 
 LICENSE → 【licence.txt】 in this repository.
 
-実行コード並びにexeでWindowsセキュリティが作動した場合
-→ https://zenn.dev/kenta_goto/articles/a1cacbd326f864
-を確認お願いいたします。
+ソースコード及びexe起動時にWindows のセキュリティ機能が leakless.exe というファイルをウィルスまたは望ましくないソフトウェアとして検出された場合
+Windows のセキュリティ設定でこのファイルを許可する必要があります。具体的な手順は次のとおりです。
+[ウィルスと脅威の防止] > [保護の履歴] で 該当exeに関する項目を [復元]
